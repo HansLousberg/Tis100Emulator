@@ -1,0 +1,15 @@
+C:\Users\Hans Lousberg\Documents\Sink\projects\tis100Emulator\Tis100Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Hans Lousberg\Documents\Sink\projects\tis100Emulator\Tis100Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Hans Lousberg\Documents\Sink\projects\tis100Emulator\Tis100Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Hans Lousberg\Documents\Sink\projects\tis100Emulator\Tis100Tests\bin\Debug\Tis100Tests.dll
+C:\Users\Hans Lousberg\Documents\Sink\projects\tis100Emulator\Tis100Tests\bin\Debug\Tis100Tests.pdb
+C:\Users\Hans Lousberg\Documents\Sink\projects\tis100Emulator\Tis100Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Hans Lousberg\Documents\Sink\projects\tis100Emulator\Tis100Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Hans Lousberg\Documents\Sink\projects\tis100Emulator\Tis100Tests\bin\Debug\Tis100.dll
+C:\Users\Hans Lousberg\Documents\Sink\projects\tis100Emulator\Tis100Tests\bin\Debug\Tis100.pdb
+C:\Users\Hans Lousberg\Documents\Sink\projects\tis100Emulator\Tis100Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Hans Lousberg\Documents\Sink\projects\tis100Emulator\Tis100Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Hans Lousberg\Documents\Sink\projects\tis100Emulator\Tis100Tests\obj\Debug\Tis100Tests.csprojResolveAssemblyReference.cache
+C:\Users\Hans Lousberg\Documents\Sink\projects\tis100Emulator\Tis100Tests\obj\Debug\Tis100Tests.csproj.CoreCompileInputs.cache
+C:\Users\Hans Lousberg\Documents\Sink\projects\tis100Emulator\Tis100Tests\obj\Debug\Tis100Tests.dll
+C:\Users\Hans Lousberg\Documents\Sink\projects\tis100Emulator\Tis100Tests\obj\Debug\Tis100Tests.pdb

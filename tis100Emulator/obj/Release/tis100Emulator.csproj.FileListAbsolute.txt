@@ -1,0 +1,9 @@
+C:\Users\hansl\sinkLaptop\projects\tis100Emulator\tis100Emulator\bin\Release\tis100Emulator.exe.config
+C:\Users\hansl\sinkLaptop\projects\tis100Emulator\tis100Emulator\bin\Release\tis100Emulator.exe
+C:\Users\hansl\sinkLaptop\projects\tis100Emulator\tis100Emulator\bin\Release\tis100Emulator.pdb
+C:\Users\hansl\sinkLaptop\projects\tis100Emulator\tis100Emulator\bin\Release\Tis100.dll
+C:\Users\hansl\sinkLaptop\projects\tis100Emulator\tis100Emulator\bin\Release\Tis100.pdb
+C:\Users\hansl\sinkLaptop\projects\tis100Emulator\tis100Emulator\obj\Release\tis100Emulator.csprojResolveAssemblyReference.cache
+C:\Users\hansl\sinkLaptop\projects\tis100Emulator\tis100Emulator\obj\Release\tis100Emulator.csproj.CoreCompileInputs.cache
+C:\Users\hansl\sinkLaptop\projects\tis100Emulator\tis100Emulator\obj\Release\tis100Emulator.exe
+C:\Users\hansl\sinkLaptop\projects\tis100Emulator\tis100Emulator\obj\Release\tis100Emulator.pdb

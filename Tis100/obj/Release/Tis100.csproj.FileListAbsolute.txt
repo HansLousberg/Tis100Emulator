@@ -1,0 +1,5 @@
+C:\Users\hansl\sinkLaptop\projects\tis100Emulator\Tis100\bin\Release\Tis100.dll
+C:\Users\hansl\sinkLaptop\projects\tis100Emulator\Tis100\bin\Release\Tis100.pdb
+C:\Users\hansl\sinkLaptop\projects\tis100Emulator\Tis100\obj\Release\Tis100.csproj.CoreCompileInputs.cache
+C:\Users\hansl\sinkLaptop\projects\tis100Emulator\Tis100\obj\Release\Tis100.dll
+C:\Users\hansl\sinkLaptop\projects\tis100Emulator\Tis100\obj\Release\Tis100.pdb
